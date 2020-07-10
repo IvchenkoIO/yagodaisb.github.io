@@ -1,0 +1,174 @@
+body{
+  top: 0px;
+}
+.intro{
+  background:url(https://static.ogorodniki.com/ogorod/af/xl_1f284dde-9c23-4116-8769-7cfb35328aaf.jpg) ;
+  background-size: 100%;
+  -webkit-width: 100%;
+  padding-left: 5px;
+  padding-right: 5px;
+  height:500px;  
+}
+.intro-photo{
+  text-align:center;
+  padding: 50px;
+  height:100%;
+  width:100%; 
+}
+.intro img{
+opacity: 0.6;
+}
+.zagolovok{
+text-align: center;
+font-size: 5em;
+opacity: 1;
+}
+.usl{
+  text-align:center;
+  font-size: 5em;
+}
+.navig {
+  background-color: white;
+  border-color: #9d9d9d;
+  min-height: 64px;
+  text-align:center;
+}
+
+.navig li {
+  float: right;
+  width: 125px;
+  color: white;
+  text-align: center;
+
+}
+
+.navig a {
+  display: block;
+  color: green;
+  line-height: 3.5em;
+  border: 3.9px solid #93c01b;
+  text-decoration: none;
+}
+
+.navig li a:hover {
+  color: black;
+  background-color: #93c01b;
+  text-align: center;
+  font-weight: bold;
+}
+
+.round {
+    border-radius: 60%;
+     border: 10px solid DeepSkyBlue; 
+     opacity: 1;
+     height: 150px;
+     width:200px; 
+}
+
+.posl{
+  text-align:center;
+}
+.zag{
+  font-size: 5em;
+  text-align:center;
+  padding: 30px;
+}
+.opis{
+text-align:center;
+border: 10px solid #93c01b;
+}
+.opis:hover{
+background-color:#93c01b;
+}
+.fotka{
+  opacity: 1;
+  text-align:center;
+}
+.yagoda figure{
+  margin: 40px;
+  float: left;
+  text-align:center;
+  }
+.posl figure{
+margin: 80px;
+  float: left;
+  text-align:center;
+}
+  .kontakt{
+    text-align:center;
+  }
+  .kontekst{
+    border: 10px solid #93c01b;
+text-align:center; 
+font-weight: bolder;
+font-size: 30px; 
+  }
+.kontekst:hover{
+background-color:#93c01b;
+}
+
+.karta{
+  text-align:center;
+}
+.foot{
+  text-align:center;
+  padding: 20px; 
+  height: 250px;
+background:url(https://static.ogorodniki.com/ogorod/af/xl_1f284dde-9c23-4116-8769-7cfb35328aaf.jpg);
+}
+.ssilka{
+  color: black;
+  text-decoration: none;
+}
+.kontekst a:hover{
+  border: 3px solid black;
+  background-color: white;
+}
+.yagoda a:hover{
+  border-radius: 60%;
+     border: 10px solid #93c01b; 
+     opacity: 1;
+     height: 150px;
+     width:200px; 
+}
+  .big:hover {
+  box-shadow:
+    1px 1px #93c01b,
+    2px 2px #93c01b,
+    3px 3px #93c01b,
+    4px 4px #93c01b,
+    5px 5px #93c01b,
+    6px 6px #93c01b,
+    7px 7px #93c01b;
+  -webkit-transform: translateX(-7px);
+  transform: translateX(-7px);
+    -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+ 
+}
+img.big 
+{cursor: pointer; max-width: 350px;
+  height: 300px;
+}
+._big1
+{
+text-align:center;
+}
+.fotoon{
+  float: left;
+  height: 100%;
+}
+.fotodw{
+  float: right;
+}
+.nov {
+  border:5px solid #93c01b;
+  background:url(https://maximum.fm/uploads/1200x670_DIR/media_news/2019/07/5d20a648b86da030360549.png);
+  background-size: 100%;
+}
+.nov a:hover{
+border:5px solid #93c01b;
+color: black;
+background-color: white;
+}
